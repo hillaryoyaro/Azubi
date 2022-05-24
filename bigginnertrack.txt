@@ -1,4 +1,4 @@
-#https://github.com/hillaryoyaro
+#https://github.com/hillaryoyaro/Azubi
 #Script file for Computating average of X
 echo "Enter Size(X)"
 read X
