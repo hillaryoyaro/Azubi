@@ -1,0 +1,4 @@
+#!/bin/bash
+#Display the first 20 characters of an input file.
+#https://github.com/hillaryoyaro/Azubi
+head -c 20
